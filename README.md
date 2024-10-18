@@ -1,2 +1,2 @@
 # C_projects
-Basic C project to hone my understanding on computers.
+Basic C projects to hone my understanding on computers.
